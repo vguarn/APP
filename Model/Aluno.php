@@ -5,7 +5,7 @@ namespace App\Model;
 use App\DAO\AlunoDAO;
 use Exception;
 
-final claa Aluno Extends Model 
+final class Aluno Extends Model 
 {
     public  ?int $Id = null; 
 
