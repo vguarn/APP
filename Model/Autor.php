@@ -57,3 +57,5 @@ public static function delete() : void
     }
     parent::render('Autor/lista_autor.php', $model);
 }
+
+?>
